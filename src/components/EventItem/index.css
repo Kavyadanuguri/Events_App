@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.event-item-list {
+  list-style-type: none;
+  margin-right: 30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+}
+.event-item-img {
+  width: 300px;
+  height: 200px;
+}
+.event-item-h1 {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 22px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.event-item-p {
+  color: #f8fafc;
+  font-family: 'roboto';
+  margin-top: 0px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}

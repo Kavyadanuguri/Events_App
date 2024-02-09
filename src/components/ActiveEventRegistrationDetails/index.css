@@ -1,0 +1,85 @@
+/* Write your CSS here */
+.active-bg-container {
+  padding-left: 20px;
+  padding-top: 10px;
+  width: 40%;
+}
+.active-h1 {
+  color: #2dd4bf;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 400px;
+}
+.active-image1 {
+  width: 300px;
+  height: 300px;
+}
+.yet-to-register-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+}
+.yet-to-p1 {
+  text-align: center;
+  margin-top: 30px;
+  width: 330px;
+  color: #64748b;
+  margin-bottom: 50px;
+}
+.yet-to-button {
+  width: 300px;
+  height: 40px;
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-width: 0px;
+  border-radius: 10px;
+}
+.registered-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 300px;
+}
+.registered-img1 {
+  width: 150px;
+  height: 150px;
+}
+.registered-p1 {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 50px;
+}
+.closed-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 250px;
+}
+.closed-img {
+  width: 300px;
+  height: 300px;
+}
+.closed-h1 {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 10px;
+}
+.closed-p1 {
+  text-align: center;
+
+  font-size: 20px;
+  color: #64748b;
+  margin-bottom: 50px;
+}

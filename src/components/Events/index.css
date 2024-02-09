@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #3a4b63;
+  background-size: cover;
+  width: 60%;
+  min-height: 100vh;
+  margin-top: -16px;
+  padding-left: 50px;
+
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.events-h1 {
+  color: #ffffff;
+  font-family: 'roboto';
+}
+.ul-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  padding-top: 0px;
+}
+.container {
+  display: flex;
+}
